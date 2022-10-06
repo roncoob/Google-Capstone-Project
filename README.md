@@ -1,5 +1,5 @@
-![Dashboard 3 (1)](https://user-images.githubusercontent.com/105947393/194430562-d1246354-954a-4370-8bc6-004e806c43a3.png)
 # Google-Capstone-Project
 
-                                                       Data Analytics Portfolio
-![Dashboard 3 (1)](https://user-images.githubusercontent.com/105947393/194430814-32895645-a9b1-4f78-be18-4e2a442bb8d6.png)
+Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently became cerfified through **Googles Analytical Program.** After the completion of the course I was given two case studes to choose from to showcase all the skills I learned. By using the six steps of analysis; asking questions, collecting, processing, analyzing, and creating vizuals of my data I was able to complete my first project.  The Project I choose to do my Analysis on is one about a Bike-Share company in Chicago.
+
+                                          My first case study is **Cyclistic Bike-share Rider Analysis** 
