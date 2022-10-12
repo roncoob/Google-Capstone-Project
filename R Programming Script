@@ -1,1 +1,98 @@
+#===================
+# **STEP ONE: INSTALL AND LOAD NECESSARY PACKAGES FOR ANALYSIS**
+#==================
 
+install.packages("tidyverse") # for cleaning data
+install.packages("lubridate") # For manipulating dates
+install.packages("geosphere") # For calculating latitude and longitude data
+install.packages("janitor")   # for cleaing colums and rows
+library(tidyverse)
+library(lubridate)
+library(geosphere)
+library(janitor)
+library(readr) # provides fuctions so you can quickly view data
+library(tidyr) # for quick cleaning of data
+library(dplyr) # allows you to use functions such as ARRANGE, FILTER, MUTATE.
+install.packages("hydroTSM") # for changing time into seasons
+library(hydroTSM)
+
+#================
+# STEP 2: **IMPORT DATA SETS AND CREATE TABLE**
+#===============
+
+# uplaoding individual data sets
+
+jan_21 <- read_csv("Cycling Case Study/202101-divvy-tripdata.csv")
+feb_21 <- read_csv("Cycling Case Study/202102-divvy-tripdata.csv")
+mar_21 <- read_csv("Cycling Case Study/202103-divvy-tripdata.csv")
+apr_21 <- read_csv("Cycling Case Study/202104-divvy-tripdata.csv")
+may_21 <- read_csv("Cycling Case Study/202105-divvy-tripdata.csv")
+jun_21 <- read_csv("Cycling Case Study/202106-divvy-tripdata.csv")
+jul_21 <- read_csv("Cycling Case Study/202107-divvy-tripdata.csv")
+aug_21 <- read_csv("Cycling Case Study/202108-divvy-tripdata.csv")
+sep_21 <- read_csv("Cycling Case Study/202109-divvy-tripdata.csv")
+oct_21 <- read_csv("Cycling Case Study/202110-divvy-tripdata.csv")
+nov_21 <- read_csv("Cycling Case Study/202111-divvy-tripdata.csv")
+dec_21 <- read_csv("Cycling Case Study/202112-divvy-tripdata.csv")
+
+# Assuring all data sets have the same columns 
+
+
+colnames(jan_21)
+colnames(feb_21)
+colnames(mar_21)
+colnames(apr_21)
+colnames(may_21)
+colnames(jun_21)
+colnames(jul_21)
+colnames(aug_21)
+colnames(sep_21)
+colnames(oct_21)
+colnames(nov_21)
+colnames(dec_21)
+
+# All Data sets have same Column names
+
+
+# Combining all 12 months into one Data Set!
+
+bike_trips <- rbind(jan_21,feb_21,mar_21,apr_21,may_21,jun_21,jul_21,aug_21,sep_21,oct_21,nov_21,dec_21)
+
+
+#======================
+#STEP 3. CLEAN THE DATA
+#======================
+
+# Viewing all the data types to see what changes need to be made.
+
+str(bike_trips)
+
+# Changes that must be made to make data clean and efficent. 
+
+# 1. Change Date and Time to HH:MM:SS and YYYY/MM/DD formats
+# 2. Create a WEEKDAY column
+# 3. Create a MONTH column
+# 4. Create and RIDE DURATION column
+# 5. Remove all rows with NULL values
+# 6. Remove comlumns that are not needed for analysis
+# 7. Create Start and End Hour Columns
+# 8. Create a Seasons Column
+
+bike_trips$started_at <- ymd_hms(bike_trips$started_at) #1
+bike_trips$ended_at <- ymd_hms(bike_trips$ended_at)
+
+bike_trips$weekday <- weekdays(bike_trips$started_at) #2
+
+bike_trips$month <- month(bike_trips$started_at, label = TRUE) #3
+
+bike_trips$ride_duration <- difftime(bike_trips$ended_at, bike_trips$started_at, units = c("mins")) #4
+
+bike_trips <- na.omit(bike_trips) #5
+
+bike_trips <- subset(bike_trips, select = - c(ride_id, start_station_id, end_station_id))
+
+bike_trips$start_hour <- hour(bike_trips$started_at) #7
+bike_trips$end_hour <- hour(bike_trips$ended_at)
+
+
+bike_trips$seasons <- time2season(bike_trips$started_at,out.fmt = "seasons") #8
