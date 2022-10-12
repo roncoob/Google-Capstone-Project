@@ -1,6 +1,6 @@
-#===================
-# **STEP ONE: INSTALL AND LOAD NECESSARY PACKAGES FOR ANALYSIS**
-#==================
+
+# STEP ONE: INSTALL AND LOAD NECESSARY PACKAGES FOR ANALYSIS
+
 
 install.packages("tidyverse") # for cleaning data
 install.packages("lubridate") # For manipulating dates
@@ -16,9 +16,9 @@ library(dplyr) # allows you to use functions such as ARRANGE, FILTER, MUTATE.
 install.packages("hydroTSM") # for changing time into seasons
 library(hydroTSM)
 
-#================
-# STEP 2: **IMPORT DATA SETS AND CREATE TABLE**
-#===============
+
+# STEP 2: IMPORT DATA SETS AND CREATE TABLE
+
 
 # uplaoding individual data sets
 
@@ -59,9 +59,9 @@ colnames(dec_21)
 bike_trips <- rbind(jan_21,feb_21,mar_21,apr_21,may_21,jun_21,jul_21,aug_21,sep_21,oct_21,nov_21,dec_21)
 
 
-#======================
+
 #STEP 3. CLEAN THE DATA
-#======================
+
 
 # Viewing all the data types to see what changes need to be made.
 
