@@ -5,8 +5,6 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
                                                             Cyclistic Bike-share Rider Analysis
                                                             
                                                             
-•	**Case Study**- Find out how annual bike riders differ from casual riders in the Chicago area.
-•	**Analysis Goals** – Find ways to convert *Casual Riders* into annual members.
-•	**Data Used** – One calendar year of bike ride data. Jan – Dec 2021. Data was pulled from [ Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html )
-•	**Data Licensing Agreement** - https://ride.divvybikes.com/data-license-agreement
-•	**Tools used for Data cleaning and visuals** – R Programming & Tableau 
+**Case Study** - Analyze how annual bike members and casual riders differ from one another.
+
+**Business Task** -
