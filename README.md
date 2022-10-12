@@ -7,4 +7,10 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
                                                             
 **Case Study** - Analyze how annual bike members and casual riders differ from one another.
 
-**Business Task** -
+**Business Task** - Find ways to convert casual riders into annual members.
+
+**Data Analyzed** - One calender year of bike ride data. Jan- Dec 2021. Data was pulled from [Divvy Bikes Data](https://divvy-tripdata.s3.amazonaws.com/index.html )
+
+**Key Stakeholders** - Cyclistic Executive team and The Director of Marketing.
+
+
