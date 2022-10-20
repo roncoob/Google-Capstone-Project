@@ -21,4 +21,4 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 
                                                        
 
-![Dashboard 3 (2)](https://user-images.githubusercontent.com/105947393/196830421-47f81849-23a1-4fc7-8de7-fcc933e6fc71.png)
+![Dashboard 1](https://user-images.githubusercontent.com/105947393/196830505-dfd8bfc0-584b-4da7-aad5-822c1a1ed6a1.png)
