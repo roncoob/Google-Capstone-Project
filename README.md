@@ -49,5 +49,6 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 
 
 
-![Dashboard 3](https://user-images.githubusercontent.com/105947393/196830572-592e967e-b673-4c85-af74-3c0c9b33193e.png)
-![AVG Ride Dashboard (1)](https://user-images.githubusercontent.com/105947393/202314024-aaa2c0c8-1e4b-4bff-896a-3fadc1d7fa6e.png)
+
+![Total Ride Bashboard](https://user-images.githubusercontent.com/105947393/202314174-0f456177-00c0-4ffd-8c4d-3f91cb69fa20.png)
+![AVG Ride Dashboard (1)](https://user-images.githubusercontent.com/105947393/202314204-01d7af72-f18a-463b-9902-4ab4e6fb706b.png)
