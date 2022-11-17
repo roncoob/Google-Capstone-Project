@@ -35,24 +35,11 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 
 
 
-1. Approximatley 49% of all rides were taken on weekends, Friday-Sunday.
-2. 
-
-
-
-
 
 
 <br>
 <br>
 <br>
-
-
-
-
-
-
-
 
 
 
@@ -66,16 +53,11 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 
 ![AVG Ride Dashboard (1)](https://user-images.githubusercontent.com/105947393/202314204-01d7af72-f18a-463b-9902-4ab4e6fb706b.png)
 
-
 <br>
 <br>
 <br>
 
+## Summary
 
-##Summary
-<br>
-<br>
-1. Approximatley 49% of all rides were taken on weekends, Friday-Sunday.
-<br>
-2. 
+
 
