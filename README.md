@@ -59,11 +59,16 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 
 ## Summary
 <br>
-<br>
 1. Approxmatley 49% of all rides were taken on the weekend. Friday - Sunday.
 <br>
 2. Members make up majority of all rides taken.
 <br>
-3.
+3.Casual customers spend 2.5x longer on bike rides than members.
+<br>
+4. The least amount of rides throughout the year were taken on Mondays and Thrusdays.
+<br>
+5. Slowest hours for bike rides are in the early morning for both members and casuals, 12-4 am.
+<br>
+6. Busiest hours for bike rides for both casuals and members are between the hours of 1-5 pm.
 
 
