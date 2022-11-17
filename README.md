@@ -31,7 +31,7 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 - Blue represents the population of bike riders who have an annual membership.
 - Green represents the customers who use the bike share service casually.
 - Black represents both annual and casual customers as a whole.
-- hhh
+
 
 
 
@@ -73,5 +73,7 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 # Summary
 <br>
 <br>
-- Approximatley 49% of all rides taken throughout the year 2021, were taken on weekends, Fri-Sun.
-- Majority of all rides are taken by members.
+- The Dashboards belows show **Totals** and **Average** data throughout the year of 2021 in the Chicago area. 
+- Blue represents the population of bike riders who have an annual membership.
+- Green represents the customers who use the bike share service casually.
+- Black represents both annual and casual customers as a whole.
