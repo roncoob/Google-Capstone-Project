@@ -15,7 +15,7 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 
 **Data License Agreement** - [ Click Here](https://ride.divvybikes.com/data-license-agreement)
 
-**Tools Used for Analysis** - R Programming & Tableau
+**Tools Used for Analysis** - R Programming & Tableau. To view all Tableau Visuals [ Click Here](https://public.tableau.com/app/profile/ronnie3109/viz/ChicagoBikeRides_16639666190670/AVGRideDashboard#1) 
 
 <br>
 <br>
