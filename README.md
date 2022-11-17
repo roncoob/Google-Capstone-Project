@@ -58,6 +58,12 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 <br>
 
 ## Summary
-
+<br>
+<br>
+1. Approxmatley 49% of all rides were taken on the weekend. Friday - Sunday.
+<br>
+2. Members make up majority of all rides taken.
+<br>
+3.
 
 
