@@ -27,10 +27,10 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 
 
 
-- The Dashboards belows show Totals and Average data throughout the year of 2021 in the Chicago area. 
-- #0969DA Blue represents the population of bike riders who have an annual membership.
+- The Dashboards belows show **Totals** and **Average** data throughout the year of 2021 in the Chicago area. 
+- Blue represents the population of bike riders who have an annual membership.
 - Green represents the customers who use the bike share service casually.
-- Black represents both annual and casual customers.
+- Black represents both annual and casual customers as a whole.
 
 
 
