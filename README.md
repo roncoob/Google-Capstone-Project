@@ -73,8 +73,4 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 <br>
 <br>
 - Approximatley 49% of all rides taken throughout the year 2021, were taken on weekends, Fri-Sun.
-- Members make up majority of all rides taken in 2021.
-- Mondays and Thursdays have the least amount of rides taken in 2021.
-- On Average casual riders spent 2.5x longer per ride than members did in 2021.
-- Slowest hours for bike rides for both members and casual members are in the early morning between 12-4 am.
-- The busiest hours for bike rides for both members and casual members are mid day between 1-5 pm.
+- Majority of all rides are taken by members.
