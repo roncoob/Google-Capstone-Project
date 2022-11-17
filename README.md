@@ -70,5 +70,15 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 5. Slowest hours for bike rides are in the early morning for both members and casuals, 12-4 am.
 <br>
 6. Busiest hours for bike rides for both casuals and members are between the hours of 1-5 pm.
+<br>
+<br>
+<br>
+## Recommendations
+<br>
+1. Incentivise to casual members that if their avg ride duration is 25 minutes or longer throughout the course of the month they can get bonuses or discounts! Ex: Free rides for Friends
+<br>
+2. Create a summer pass package that casual customers can purcahse. Majority of rides taken by causal riders are in the summer
+<br>
+3. 
 
 
