@@ -57,7 +57,9 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 <br>
 <br>
 
-## Summary & Recommenda
+## Summary & Recommendations
+<br>
+*Summary*
 <br>
 1. Approxmatley 49% of all rides were taken on the weekend. Friday - Sunday.
 <br>
@@ -73,12 +75,14 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 <br>
 <br>
 <br>
-Recommendations
+*Recommendations*
 <br>
-1. Incentivise to casual members that if their avg ride duration is 25 minutes or longer throughout the course of the month they can get bonuses or discounts! Ex: Free rides for Friends
+1. Incentivise to casual members that if their avg ride duration is 25 minutes or longer throughout the course of the month they can get bonuses and discounts! Ex: Free rides for Friends.
 <br>
-2. Create a summer pass package that casual customers can purcahse. Majority of rides taken by causal riders are in the summer
+2. Create a summer pass package that casual customers can purcahse. Majority of rides taken by causal riders are in the summer.
 <br>
-3. 
+3. Create a subsription tier system where an option is weekends only. This could intrigue casual riders to commit to a subscription.
+<br>
+4. For better analysis begin tracking demographic data such as, sex and age. This will provide better marketing strategies, and better knowledge on who to focus promotional spending on.
 
 
