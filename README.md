@@ -84,15 +84,15 @@ Summary
 Recommendations
 <br>
 <br>
-1. Incentivise to casual members that if their avg ride duration is 25 minutes or longer throughout the course of the month they can get bonuses and discounts! Ex: Free rides for Friends.
+1. With the average ride duration for casual customers over 25 minutes; Incentivising to casual customers that if their average ride time is 25 minutes or longer throughout the course of a month they can get bonuses and discounts. Ex: Free rides for Friends or 25% reduction in subscription fees.
 <br>
 <br>
-2. Create a summer pass package that casual customers can purcahse. Majority of rides taken by causal riders are in the summer.
+2. Create a summer pass package that casual customers can purcahse. Majority of rides taken by causal are in the summer.
 <br>
 <br>
-3. Create a subsription tier system where an option is weekends only. This could intrigue casual riders to commit to a subscription.
+3. Create a subsription tier system where an option is weekends only. This could intrigue casual riders to commit to a cheaper yet effective subscription.
 <br>
 <br>
-4. For better analysis begin tracking demographic data such as, sex and age. This will provide better marketing strategies, and better knowledge on who to focus promotional spending on.
+4. For better analysis begin tracking demographic data such as sex and age. This will provide better marketing strategies, and better knowledge on who to focus promotional spending on.
 
 
