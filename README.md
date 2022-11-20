@@ -64,13 +64,18 @@ Summary
 <br>
 1. Approxmatley 49% of all rides were taken on the weekend. Friday - Sunday.
 <br>
+<br>
 2. Members make up majority of all rides taken.
+<br>
 <br>
 3.Casual customers spend 2.5x longer on bike rides than members.
 <br>
+<br>
 4. The least amount of rides throughout the year were taken on Mondays and Thrusdays.
 <br>
+<br>
 5. Slowest hours for bike rides are in the early morning for both members and casuals, 12-4 am.
+<br>
 <br>
 6. Busiest hours for bike rides for both casuals and members are between the hours of 1-5 pm.
 <br>
@@ -81,9 +86,12 @@ Recommendations
 <br>
 1. Incentivise to casual members that if their avg ride duration is 25 minutes or longer throughout the course of the month they can get bonuses and discounts! Ex: Free rides for Friends.
 <br>
+<br>
 2. Create a summer pass package that casual customers can purcahse. Majority of rides taken by causal riders are in the summer.
 <br>
+<br>
 3. Create a subsription tier system where an option is weekends only. This could intrigue casual riders to commit to a subscription.
+<br>
 <br>
 4. For better analysis begin tracking demographic data such as, sex and age. This will provide better marketing strategies, and better knowledge on who to focus promotional spending on.
 
