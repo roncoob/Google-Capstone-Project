@@ -27,7 +27,7 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 
 
 
-- The Dashboards belows show **Totals** and **Average** data throughout the year of 2021 in the Chicago area. 
+- The Dashboards belows show the **Totals** and **Average** data throughout the year of 2021 in the Chicago area. 
 - Blue represents the population of bike riders who have an annual membership.
 - Green represents the customers who use the bike share service casually.
 - Black represents both annual and casual customers as a whole.
@@ -87,7 +87,7 @@ Recommendations
 1. With the average ride duration for casual customers over 25 minutes; Incentivising to casual customers that if their average ride time is 25 minutes or longer throughout the course of a month they can get bonuses and discounts. Ex: Free rides for Friends or 25% reduction in subscription fees.
 <br>
 <br>
-2. Create a summer pass package that casual customers can purcahse. Majority of rides taken by causal are in the summer.
+2. Create a summer pass package that casual customers can purcahse. Majority of rides taken by causals are in the summer.
 <br>
 <br>
 3. Create a subsription tier system where an option is weekends only. This could intrigue casual riders to commit to a cheaper yet effective subscription.
