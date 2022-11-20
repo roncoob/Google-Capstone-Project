@@ -57,7 +57,7 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 <br>
 <br>
 
-## Summary
+## Summary & Recommenda
 <br>
 1. Approxmatley 49% of all rides were taken on the weekend. Friday - Sunday.
 <br>
@@ -73,7 +73,7 @@ Hi My Name is Ronnie Boyd, and Welcome to my first Analytics project. I recently
 <br>
 <br>
 <br>
-### Recommendations
+Recommendations
 <br>
 1. Incentivise to casual members that if their avg ride duration is 25 minutes or longer throughout the course of the month they can get bonuses or discounts! Ex: Free rides for Friends
 <br>
