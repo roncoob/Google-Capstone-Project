@@ -89,7 +89,7 @@ bike_trips$ride_duration <- difftime(bike_trips$ended_at, bike_trips$started_at,
 
 bike_trips <- na.omit(bike_trips) #5
 
-bike_trips <- subset(bike_trips, select = - c(ride_id, start_station_id, end_station_id))
+bike_trips <- subset(bike_trips, select = - c(ride_id, start_station_id, end_station_id)) #6
 
 bike_trips$start_hour <- hour(bike_trips$started_at) #7
 bike_trips$end_hour <- hour(bike_trips$ended_at)
