@@ -67,7 +67,7 @@ bike_trips <- rbind(jan_21,feb_21,mar_21,apr_21,may_21,jun_21,jul_21,aug_21,sep_
 
 str(bike_trips)
 
-# **CHANGES THAT MUST BE MADE TO MADE DATA CLEAN AND EFFICENT**
+# CHANGES THAT MUST BE MADE TO MADE DATA CLEAN AND EFFICENT
 
 # 1. Change Date and Time to HH:MM:SS and YYYY/MM/DD formats
 # 2. Create a WEEKDAY column
